@@ -1,13 +1,13 @@
-# Dependencies
+# dependencies
 node_modules/
 frontend/node_modules/
 server/node_modules/
 
-# Environment files
+# environment files
 .env
 *.env
 server/config/serviceAccountKey.json
 
-# Build
+# build files
 frontend/build/
 dist/
