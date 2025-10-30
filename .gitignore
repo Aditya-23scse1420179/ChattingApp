@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+frontend/node_modules/
+server/node_modules/
+
+# environment files
+.env
+*.env
+
+# build
+frontend/build/
+dist/
